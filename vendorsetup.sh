@@ -14,5 +14,5 @@
 # limitations under the License.
 #
 
-add_lunch_combo validus_Z00A-userdebug
-add_lunch_combo validus_Z00A-eng
+add_lunch_combo du_Z00A-userdebug
+add_lunch_combo du_Z00A-eng
